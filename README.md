@@ -12,31 +12,8 @@ This project focuses on optimizing inventory management using various forecastin
 3. **Reduce Lead Time**: Streamline processes to ensure timely fulfillment of orders.
 4. **Demand Forecasting**: Predict future sales based on historical data to make informed inventory decisions.
 
-## Algorithms Implemented
+## Algorithm Implemented
 
-### 1. Moving Average (MA)
-
-**Objective**: Smoothens historical data to forecast future demand by calculating the average of a specified number of past periods.
-
-**Implementation**: 
-```python
-def moving_average_forecast(sales_data, window_size):
-    return sales_data['QuantitySold'].rolling(window=window_size).mean()
-```
-
-### 2. Exponential Smoothing (ES)
-
-**Objective**: Assigns exponentially decreasing weights to past observations, making it more responsive to recent changes in data.
-
-**Implementation**:
-```python
-from statsmodels.tsa.holtwinters import ExponentialSmoothing
-
-def exponential_smoothing_forecast(sales_data, seasonal_periods=None):
-    model = ExponentialSmoothing(sales_data['QuantitySold'], seasonal='add', seasonal_periods=seasonal_periods)
-    model_fit = model.fit()
-    return model_fit.forecast(steps=12)
-```
 
 ### 3. ARIMA (AutoRegressive Integrated Moving Average)
 
@@ -57,40 +34,6 @@ def arima_forecast(sales_data, order=(1, 1, 1)):
     return model_fit.forecast(steps=12)
 ```
 
-### 4. Facebook Prophet
-
-**Objective**: Designed to handle time series data that displays trends and seasonality. It is particularly effective for business forecasting.
-
-**Implementation**:
-```python
-from prophet import Prophet
-
-def prophet_forecast(sales_data):
-    df = sales_data.reset_index().rename(columns={'Date': 'ds', 'QuantitySold': 'y'})
-    model = Prophet()
-    model.fit(df)
-    future = model.make_future_dataframe(periods=12, freq='M')
-    forecast = model.predict(future)
-    return forecast
-```
-
-### 5. Long Short-Term Memory (LSTM) Networks
-
-**Objective**: A type of recurrent neural network (RNN) that can learn long-term dependencies and is effective for sequence prediction problems.
-
-**Implementation**:
-```python
-from keras.models import Sequential
-from keras.layers import LSTM, Dense
-
-# Normalize and prepare data
-model = Sequential()
-model.add(LSTM(50, return_sequences=True, input_shape=(X.shape[1], 1)))
-model.add(LSTM(50))
-model.add(Dense(1))
-model.compile(optimizer='adam', loss='mean_squared_error')
-model.fit(X, y, epochs=100, batch_size=32)
-```
 
 ## Data Preparation
 
