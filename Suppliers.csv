@@ -1,0 +1,201 @@
+SupplierID,SupplierName,ContactPerson,PhoneNumber,Email,Address,LeadTimeDays,CreatedAt,UpdatedAt
+1,Mcdaniel Inc,Dana Finley,(649)666-3210,baldwindebra@huang.com,"5539 Randy Coves
+Timton, KS 01709",7,2020-05-18 13:24:26,2022-10-31 21:51:06
+2,Walker LLC,Jason Tanner DDS,(305)601-1699x93661,bradleyrebecca@hotmail.com,"302 Hall Valley
+Port Garrettfort, MD 57722",11,2024-09-17 06:39:16,2024-03-29 05:39:04
+3,"Mcdowell, Mcgee and Miller",William Cooper,001-655-486-1652,juliecarlson@hotmail.com,"9664 Victoria Highway Suite 285
+West Alisontown, CA 72218",6,2020-10-25 14:52:23,2021-08-23 06:12:02
+4,Ingram and Sons,Patrick Todd,(923)638-3153,sbailey@wilkins.com,"30495 Marshall Haven Apt. 011
+West Wayne, ME 02992",11,2021-04-23 15:55:09,2022-04-13 22:25:50
+5,"Black, Spence and Brown",Brandon Evans,(409)240-9676x978,palvarez@harrison-greene.com,"96488 Kristen Circles Apt. 355
+Thomasfurt, KY 76909",7,2024-09-15 18:27:56,2020-02-13 17:25:43
+6,Gonzalez LLC,John Alexander,611-618-6128,jsawyer@gmail.com,"79150 Taylor Knoll
+East Matthewville, GA 04974",15,2022-12-19 10:51:59,2021-01-13 18:00:19
+7,Johnson LLC,Joseph Garcia,+1-893-583-4249x5166,chall@hotmail.com,"686 Randy Pine Suite 581
+North Vincentchester, MA 14750",14,2023-02-01 07:48:29,2020-11-12 03:16:17
+8,Cook-Bryant,Haley Sandoval,767.737.2458x8424,johnsonjessica@yahoo.com,"2888 Rodney Shoals Suite 508
+North Ebony, NE 06620",8,2024-09-25 01:06:58,2022-03-07 16:21:43
+9,Lee Inc,Nathaniel Greer,001-727-133-0219x33816,ivargas@hotmail.com,"135 Theresa Via
+Carloston, AZ 68418",5,2023-04-17 05:28:53,2024-01-16 16:55:34
+10,Mason-Cox,Roy Baldwin,360.813.1720x824,christina16@rodriguez.com,"890 Keller Burg Apt. 418
+Stephentown, MO 84786",8,2020-01-30 04:00:55,2023-11-18 15:22:36
+11,"Li, Wright and Armstrong",Jennifer Petersen,359-660-1068x0093,kscott@hill-santiago.com,"90346 Bailey Pike
+Orrton, FL 44857",13,2024-03-22 15:49:58,2021-09-24 17:45:56
+12,"Velasquez, Smith and White",Jeffrey Jones,(984)908-3388x494,chaveztimothy@hotmail.com,"32017 Gonzales Cape Apt. 052
+South Paulview, NE 97183",8,2020-12-27 13:27:42,2023-10-27 11:25:16
+13,Clark-Hall,Jessica Lambert,942-219-3372x81869,anthonychelsea@thomas.com,"034 Mario Parkway Suite 572
+South William, MT 45083",11,2024-09-03 17:16:31,2021-08-26 07:40:22
+14,"Carpenter, Harmon and Webb",Seth Palmer,125.088.9788,yrosales@barnes-campbell.net,"324 Jackson Lights Apt. 883
+Kimberlyview, CT 98189",15,2023-10-22 12:36:47,2021-12-29 04:41:14
+15,Mcfarland PLC,Kenneth Edwards,946-864-1263,xhill@gmail.com,"5900 Garcia Divide
+Powellfurt, MT 65661",6,2020-08-09 03:25:20,2021-07-31 23:43:16
+16,Castaneda and Sons,Michelle Villa,578-623-3694,mistywilson@yahoo.com,"449 Michael Meadows Suite 204
+Port Matthewfurt, GA 64523",15,2023-09-25 13:53:04,2022-10-26 00:25:56
+17,Brady and Sons,Rachel Garcia,889-838-7102x60871,ehogan@schroeder-garcia.com,"17657 Adam Manors Apt. 370
+Heathershire, IN 05559",5,2024-08-13 02:27:55,2021-10-17 23:49:02
+18,"Garcia, Peters and Calhoun",Patrick Mccoy,5906339537,morgandurham@gmail.com,"0259 Miller Fork Apt. 784
+Stevenburgh, MI 73049",8,2021-01-10 08:06:44,2021-05-06 19:50:07
+19,"Sellers, Everett and Gillespie",Kathryn Knight,(857)362-4042,paulosborne@gmail.com,"2497 Martinez Circles Suite 532
+Lake Thomasbury, MI 18897",15,2022-07-29 00:17:18,2021-03-23 18:07:36
+20,Castaneda-Taylor,Catherine Cannon,(344)251-8297x403,matthew19@bean-white.com,"08917 Cline Viaduct Suite 142
+East Aaronburgh, MD 90623",5,2021-09-05 21:04:52,2021-11-24 16:01:53
+21,Harrison-Fitzgerald,Madeline Burns,(542)034-9593,wutodd@yahoo.com,"2790 Rebecca Lights
+Port Kimberly, NE 02132",5,2022-01-02 07:45:25,2023-07-21 20:23:16
+22,Mccormick and Sons,Johnny Costa,(766)078-2498x22042,mwalsh@park.info,"5027 Allen Green Apt. 766
+Danielstad, AZ 15185",10,2024-08-17 08:03:11,2020-12-20 13:59:27
+23,"Atkins, Martinez and Reynolds",David Lane,001-911-724-9143x398,frankstephanie@gmail.com,"42012 Franklin Mall
+Caitlinville, CA 55630",15,2020-04-15 16:47:50,2024-03-19 13:22:01
+24,Myers Ltd,Richard Young,697.772.4675,hendricksivan@hotmail.com,"66618 Tara Shoals
+New Jessicamouth, CO 27129",7,2023-07-02 14:12:03,2023-05-01 01:20:57
+25,Oneal and Sons,John Giles,(116)278-1693,victoriagonzalez@jordan.info,"USNV Harris
+FPO AA 45428",6,2021-05-16 00:12:38,2023-12-10 21:43:32
+26,"Wilson, Brewer and Harper",Jonathon Romero,9201882092,icantu@ramirez.org,"0068 Brittany Forge
+Gardnerborough, NH 02450",15,2020-04-04 18:30:08,2021-01-08 12:01:40
+27,Kelley LLC,Robin Oconnor,204.739.8337x44194,ryanjoseph@gmail.com,"26472 Nunez Keys Apt. 845
+Lake Marybury, NE 51367",8,2023-09-20 07:14:02,2021-06-17 02:36:41
+28,Gonzalez-Banks,John Lyons,485.165.3565x531,hjennings@davis.info,"0523 Clark Plain Apt. 242
+Lake David, CA 58711",8,2023-01-12 04:17:52,2023-04-05 12:57:48
+29,Martinez-Mills,Stacy Franklin,720.944.2545x5910,wrodriguez@pearson.com,"75252 Ashley Track Suite 249
+Kimberlyhaven, AL 03872",8,2020-10-04 02:59:02,2020-09-18 07:21:21
+30,"Watkins, Swanson and Keller",Brad Torres,(439)001-2964x757,bdavis@robinson.com,"98602 Kelly Trace Suite 592
+Port Jamie, KS 45854",12,2022-03-02 07:29:26,2020-06-06 23:00:49
+31,"Wu, Walker and Cordova",Zachary Hale,647.669.7518x27966,garciamelanie@adams.biz,"615 Jesse Light Apt. 637
+Wallacehaven, RI 84700",13,2020-03-01 08:23:50,2021-03-02 20:22:30
+32,Woodard-Wallace,Jennifer Woods,001-569-382-9754x750,nporter@hotmail.com,"96267 Julie Crossing
+Vanessafort, NJ 49525",5,2021-07-18 08:39:58,2020-06-03 05:36:34
+33,"Hoffman, Powell and Armstrong",Brittney Holmes,+1-954-842-5207x5223,jessicathompson@hotmail.com,"524 Scott Plains
+Michelemouth, MN 27859",10,2020-07-25 22:32:28,2024-04-07 22:48:27
+34,"Lucero, Ramirez and Kennedy",Alan Valdez,(312)309-0570x18196,christopherturner@yahoo.com,"PSC 8641, Box 7971
+APO AP 53892",8,2024-06-22 03:20:29,2021-09-06 06:41:43
+35,"Johnson, Vargas and Avila",Elizabeth Ramirez,181.311.4983x29851,grant53@ray.biz,"212 Nolan Loaf Apt. 835
+Colemanton, KS 90137",11,2022-02-07 01:46:47,2020-11-24 06:58:38
+36,Burns-James,Holly Whitney,(075)707-4172x553,ghines@garcia.org,"3845 Smith Squares
+Parkerbury, SD 14148",8,2021-09-10 12:22:39,2022-02-26 06:41:25
+37,Curry Group,Jodi Sherman,+1-372-089-1566,cruzantonio@yahoo.com,"946 Moore Ridge
+Thompsonshire, CA 11843",10,2021-03-23 00:03:33,2022-01-24 13:34:39
+38,Lee LLC,Francisco Torres,838.486.5671,qsmith@hotmail.com,"06766 Johnson Cliff Suite 996
+Hayleyland, MT 13989",10,2020-07-04 10:50:24,2020-08-22 22:32:27
+39,"Williams, Shepard and Aguilar",John Elliott,054-719-1124x4732,brittany09@arnold.info,"32704 Jennifer Gateway Apt. 567
+Port James, CO 29170",7,2023-03-15 16:10:44,2023-09-20 03:18:54
+40,"Huerta, Johnson and Johnston",Ronald King MD,020-169-2190x501,laura34@gmail.com,"51466 Stevenson Lodge
+Port Caroline, IN 98149",10,2022-01-01 13:24:39,2022-05-12 19:28:11
+41,Roth-Conrad,Mary Hill,+1-737-405-3384x05008,kristenavila@cummings.com,"48698 Nicholas Loop Apt. 524
+South Melanie, CO 66200",7,2021-08-17 14:40:32,2021-04-28 16:24:35
+42,Taylor-Hamilton,Pamela Rivera,+1-813-348-5982x022,roy50@gmail.com,"14535 Lloyd Neck
+Lake John, WV 02069",7,2023-08-06 23:31:28,2023-06-16 13:57:48
+43,"Williams, Byrd and Flores",Mr. Michael Cross,(118)418-8444,zacharyhernandez@yahoo.com,"313 Reeves Manor Suite 869
+West Christopherville, WV 08361",11,2023-11-24 09:07:15,2023-06-08 12:42:07
+44,Chavez Inc,Derek Trujillo,737.808.1199,brianluna@hotmail.com,"Unit 2131 Box 4288
+DPO AE 98965",10,2023-12-07 13:16:12,2020-09-07 16:58:22
+45,Ponce-Daniels,Christine Beasley,590.861.0349,garcialauren@hotmail.com,"704 Thomas Circle
+Chaseberg, ND 05112",7,2024-02-18 13:02:39,2022-09-23 13:54:00
+46,Brooks-Hernandez,Travis Smith,094.529.8775,benjaminrivera@miller.biz,"0981 Pamela Junction
+Jackborough, MO 67184",14,2021-11-18 21:35:29,2023-10-12 15:08:21
+47,Leblanc PLC,Marissa Reyes,164-670-7302x1978,heidi13@hill.org,"852 James Keys Suite 949
+Amyhaven, NH 20187",10,2022-10-28 09:48:24,2024-02-05 04:17:36
+48,"Gonzales, Yoder and Williams",Lisa Johnson,504-848-5728x32820,pevans@yahoo.com,"985 Burns Lights
+Candiceberg, CO 89756",11,2022-08-21 13:45:09,2023-07-09 02:52:44
+49,Garcia Ltd,Larry Marsh,829-683-7288x262,thomasnathan@arnold.com,"16692 Joshua Lakes Apt. 123
+Haynesfurt, MO 39468",10,2022-03-02 00:59:24,2023-02-21 15:27:25
+50,Edwards-Hernandez,Laura Johnson,+1-819-669-7125x16649,alicialane@yahoo.com,"1166 Saunders Knolls
+Careyton, AL 63028",14,2024-02-12 12:42:51,2022-11-30 20:11:02
+51,"Ramirez, Copeland and Peck",Craig Pope,573.338.3190x6532,ymaxwell@gmail.com,"5958 Courtney Mountains Suite 799
+South Raymondstad, RI 10939",5,2024-03-10 08:16:03,2023-09-11 01:33:46
+52,"Keith, Henderson and Cooper",Donald Turner,747.613.7625x2955,robert72@gmail.com,"5039 Blackburn Point Apt. 791
+Adamtown, NJ 56594",13,2024-02-02 02:22:12,2022-01-20 07:01:18
+53,Collins LLC,Thomas Brooks,526-847-7259x003,caroline42@davis.info,"38780 Andrew Locks Apt. 971
+Bakerview, OR 35769",14,2021-07-28 00:32:56,2023-08-28 23:31:27
+54,Cline Group,Emily Jackson,(658)060-9695x700,rlawrence@daniels.net,"30951 Gonzalez Trace
+Lake Jeremy, OK 85865",6,2023-12-29 13:14:23,2024-01-16 11:36:37
+55,Serrano-Mitchell,Bailey Williams,866-882-3089x464,allentanya@yahoo.com,"642 Gray Crossing Apt. 049
+Port Jesus, CT 37600",9,2023-12-10 05:41:39,2020-04-14 20:49:47
+56,Davis-Sexton,Richard Kennedy,404-009-9086,poperichard@hotmail.com,"661 Shannon Stravenue
+West Angela, VT 09801",15,2021-08-01 04:38:12,2024-10-05 20:03:19
+57,"Hart, Liu and Flores",Christopher Taylor,227-508-5264x2094,ltaylor@mccoy.com,"4512 Hanna Summit Suite 656
+Floreston, RI 27137",8,2023-03-01 13:23:23,2024-05-15 02:11:57
+58,Jones Group,Alicia Wilson,157.006.1052,matthewcarroll@gmail.com,"56570 Garcia Street
+South Kariland, UT 94930",5,2021-01-07 06:05:16,2020-12-20 08:13:58
+59,Decker and Sons,David Hughes,+1-010-731-1034x9435,mark59@gmail.com,"3053 Holmes Highway Suite 794
+Mendezside, AL 68949",5,2024-02-07 17:06:02,2021-12-18 17:43:00
+60,Norman-Jones,David Rodriguez,+1-693-632-9023x1775,lori06@gmail.com,"4605 Melanie Inlet Apt. 582
+Longhaven, VT 55116",7,2024-07-19 13:08:32,2022-07-06 20:18:33
+61,Cooper-Watts,Lisa Ewing,(853)153-3625,ptaylor@silva-pierce.net,"00785 Jermaine Row
+West Lindsey, NH 58101",14,2020-03-20 19:25:00,2020-11-25 09:02:28
+62,"Reilly, Bates and Mendoza",Patrick Lopez,(845)064-5223x31530,bridgetmartin@scott.biz,"85663 Joshua Port
+Mccarthyland, MD 61460",9,2023-11-22 17:21:59,2023-03-05 13:41:56
+63,"Fischer, James and Garcia",Phillip Herman,496.452.9190x96693,edwardhughes@morris.com,"PSC 5664, Box 0252
+APO AA 81191",7,2023-04-07 05:42:55,2021-02-15 02:29:35
+64,"Valdez, Rodriguez and Murphy",Steve Jenkins,(742)645-7065,jason38@wang.net,"197 Charles Meadow
+Anthonyburgh, VT 61662",9,2021-04-18 10:40:32,2023-06-27 07:47:01
+65,Schultz-Mason,Jonathon Jackson,156.201.5743,chandlerpatricia@hoffman.com,"755 Amanda Coves
+Anthonybury, UT 18369",9,2021-10-07 17:08:35,2020-04-02 06:35:17
+66,Simmons-Johnson,Dawn King,4260859876,brittany91@white-cochran.com,"7448 Fritz Ramp Apt. 577
+Jeffreystad, NC 51492",10,2020-10-12 22:30:02,2024-02-12 12:53:43
+67,Gallagher Inc,Justin Smith,208-628-8587,juliebanks@hotmail.com,"1531 Brown Fords Apt. 875
+Margaretstad, AK 69419",7,2021-11-30 02:16:12,2024-04-16 04:51:45
+68,"Howard, Klein and Murphy",Larry Davis,001-623-065-6870x307,mdavis@elliott.com,"36458 David Mill Apt. 263
+Lewismouth, GA 26788",6,2024-01-15 05:43:01,2023-10-06 00:30:25
+69,Tran Group,Shari Diaz,+1-839-611-0433x23568,jared00@hotmail.com,"9287 Carter Parkway Suite 581
+West Benjamin, MI 78892",5,2024-01-27 14:55:27,2022-03-05 18:08:32
+70,Andrews-Christensen,Christine Noble,283-643-3857,franklinjoshua@hotmail.com,"04787 Taylor Ways
+Lake Carmenside, NC 64503",7,2022-11-23 09:26:13,2023-04-27 20:43:09
+71,Fisher Group,Tara Williams,470.987.7423,xerickson@yahoo.com,"018 Brown Valleys
+Lake David, NH 62675",8,2021-12-09 23:48:24,2022-08-26 03:53:53
+72,"Carter, Orozco and Garrett",Steven Smith,(928)436-6788x253,nrogers@flynn-may.info,"984 Thompson Manor
+Caitlynton, WI 03126",9,2024-06-24 10:38:13,2022-11-08 22:31:25
+73,"Evans, Patel and West",Donald Lee,(262)870-1947,gadams@gmail.com,"USNS Morgan
+FPO AE 20989",5,2021-11-13 03:14:50,2020-09-10 01:03:27
+74,Taylor-George,Michael Blanchard,901-354-7025,andreastein@yahoo.com,"39903 Diane Squares
+West Stephenfort, AZ 62575",15,2023-12-06 05:30:57,2020-01-02 02:45:52
+75,Mcmahon-Camacho,Ronnie Kane,774.119.0197x81512,brownstephanie@watson-mason.org,"9811 James Garden Apt. 456
+Evansfurt, UT 18805",11,2020-11-17 00:35:44,2021-08-18 10:41:40
+76,Mckenzie-Williams,Michael Lozano,+1-051-726-3117x4758,craigcaitlin@gonzalez-scott.com,"22215 Bennett Path Suite 061
+Thompsonport, KY 36362",15,2023-03-23 23:58:28,2021-04-27 15:12:14
+77,Cooper-Sanchez,Dwayne Shaw,(645)463-9675,andrew20@vazquez.org,"USCGC Foley
+FPO AP 23496",7,2021-08-06 06:43:58,2022-12-26 22:04:49
+78,White PLC,Angela Lawson,6899041745,donna91@murillo.com,"2793 Shaun Fork
+Angelaborough, ID 86622",8,2022-07-24 20:19:31,2021-06-15 15:15:25
+79,Williams-Rivera,Joseph Melendez,(449)308-1629x34076,zmiller@king-mcdowell.com,"8786 Amanda Garden Apt. 851
+Grahamtown, NJ 71258",11,2020-08-31 03:14:39,2020-01-12 10:12:41
+80,"Cunningham, Jackson and Johnson",Kimberly Crawford,673.033.8967,epage@andrews-harris.com,"4007 Robert Forge Suite 701
+Ruizview, ME 65017",5,2021-06-02 02:28:05,2021-10-09 10:19:56
+81,"Rojas, Ward and Reed",Angela Jones,5253057957,stewartnancy@robinson.com,"419 Allen Stream
+Greenberg, MI 12815",15,2023-11-26 05:52:33,2023-03-19 05:08:29
+82,Gibson Group,Victor Martinez,409.312.9028x405,johncook@yahoo.com,"04543 Ann Coves
+New Davidtown, OK 32582",8,2023-08-01 07:55:05,2023-07-12 23:26:38
+83,Knight Group,Richard Johnson,001-790-983-8289x6854,billyestrada@yahoo.com,"4744 Walter Springs
+Schmittbury, ID 27855",15,2020-12-24 12:02:11,2023-09-08 00:13:00
+84,"Jarvis, Carey and George",Candace Ware,(578)872-9163,gina52@hotmail.com,"141 Kelly Extension
+Romerohaven, LA 29662",12,2020-11-27 17:14:25,2020-04-09 04:46:41
+85,Mckinney Inc,Chad Moore,533-092-2171x241,ashleyross@williams.com,"84993 Tiffany Keys
+Port Danastad, NV 62664",13,2024-05-19 10:40:02,2023-05-31 19:48:37
+86,"Christensen, Mendoza and Grimes",Elizabeth Clark,+1-666-636-3118x579,shelley51@carlson.com,"82312 Gonzales Flat Suite 885
+Port Christinaland, LA 08185",15,2021-07-16 13:07:46,2023-02-11 10:45:13
+87,Nguyen Group,Angela Smith,001-516-419-5131x468,petersmichael@gmail.com,"737 Angela Grove
+Dixonstad, ID 44021",6,2022-03-10 10:46:39,2020-07-28 21:01:53
+88,Elliott LLC,James Coleman,281.172.9219x996,connie43@mckenzie.com,"1033 James Fork
+Duncanside, OK 24671",6,2020-02-29 11:18:11,2023-01-28 02:39:24
+89,Cohen PLC,Christopher Williams,642-764-2364,urobinson@hotmail.com,"1455 Travis Estates
+East Lucasburgh, ME 72324",8,2023-12-01 22:14:36,2021-05-28 01:44:55
+90,Robinson-Martinez,Steven Watkins,139-989-7335x7401,bakerrodney@nguyen.com,"590 Cowan Walks Apt. 867
+Port Joshualand, VT 48021",8,2022-04-02 08:36:55,2023-05-03 10:14:03
+91,Bradley-Harris,Joseph Ward,+1-856-304-7733x299,james12@gmail.com,"47893 Gonzales Lodge Suite 584
+New John, WI 11359",9,2023-06-27 19:24:20,2023-12-31 15:37:55
+92,"Brown, Flowers and Jackson",Bobby Mejia,0664121721,sarah07@brown.org,"USS Wood
+FPO AE 44965",15,2023-08-14 23:40:47,2023-12-27 08:38:03
+93,Sutton-Ruiz,Jennifer Moore,773.747.9910x748,wendy32@pierce.net,"940 Patricia Vista Suite 676
+New James, WY 83302",15,2023-07-18 09:40:03,2024-08-03 20:40:08
+94,Miller-Hill,Peter Dixon,330-154-8195x8907,david64@smith-thompson.biz,"921 Nelson Pine
+Port Daniel, KY 84907",10,2020-05-17 02:43:25,2024-08-18 13:47:27
+95,"Joseph, Sharp and Villarreal",Eric Hall,175-979-8807,abigail68@booker.com,"283 Alexander Crest
+New Krystal, IL 90119",9,2024-07-23 14:52:26,2024-10-06 23:45:04
+96,Fuentes-Owens,Brian Bishop,001-105-407-4308x72039,brenda84@yahoo.com,"592 Ricky Glen Suite 258
+Calebhaven, MS 15662",9,2021-10-21 09:49:04,2021-10-24 02:58:07
+97,"Burns, Norman and Fuentes",Amanda Chan,(712)524-7075x191,jennifer10@yahoo.com,"576 Cynthia Square Suite 514
+North Erin, AZ 65473",13,2021-06-18 02:35:41,2022-04-17 15:00:08
+98,Rodriguez Ltd,Jason Kelly,001-590-576-5789,heatherbrock@hotmail.com,"97912 Macdonald Isle Apt. 750
+Sullivanberg, AZ 42012",8,2023-02-26 19:36:46,2021-02-25 17:58:24
+99,"Stark, Gordon and Perry",Allen Brown,(460)467-0595x16686,hartmanhayley@gmail.com,"546 Cooper Isle Apt. 312
+Gonzalesview, NV 06751",10,2020-04-17 16:42:05,2023-09-26 04:44:59
+100,Burns-Silva,Sarah Reyes,6809338121,nbeck@hotmail.com,"98378 Amy Walks
+New Anthonymouth, IA 14634",9,2020-08-25 21:20:56,2023-02-13 21:28:06
